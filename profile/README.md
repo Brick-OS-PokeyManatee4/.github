@@ -11,41 +11,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             *.-/+oossssoo+\-.*               cabox@cpp-million-bytes 
         *´:+ssssssssssssssssss+:`*           ----------------------- 
-      *-+ssssssssssssssssssyyssss+-*         OS: Ubuntu 16.04 LTS x86_64 
+      *-+ssssssssssssssssssyyssss+-*         OS: Ubuntu 20.04 LTS x86_64 
     *.ossssssssssssssssssdMMMNysssso.*       Kernel: 2.6.32-042stab145.3 
-   */ssssssssssshdmmNNmmyNMMMMhssssss\*      Uptime: 100000+ hours, 3 mins 
+   */ssssssssssshdmmNNmmyNMMMMhssssss\*      Uptime: 1 year, 10 months, 10 hours, 59 seconds
   *+ssssssssshmydMMMMMMMNddddyssssssss+*     Packages: 100000 (dpkg) 10000000 (brew)
  */sssssssshNMMMyhhyyyyhmNMMMNhssssssss\*    Shell: bash 4.3.42 
-*.ssssssssdMMMNhsssssssssshNMMMdssssssss.*   Terminal: node 
+*.ssssssssdMMMNhsssssssssshNMMMdssssssss.*   Terminal: bashdashbang 
 *+sssshhhyNMMNyssssssssssssyNMMMysssssss+*   CPU: Intel Xeon E5-2650L v3 (16) @ 449MHz 
 *ossyNMMMNyMMhsssssssssssssshmmmhssssssso*   Memory: 2048MiB / 2048MiB 
 *ossyNMMMNyMMhsssssssssssssshmmmhssssssso*
