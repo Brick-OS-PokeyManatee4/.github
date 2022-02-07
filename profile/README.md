@@ -3,7 +3,8 @@
 <h10>Hello PokeyManatee4 Here Speaking, I Hope That This Becomes Poular Because Im Going To Put My Heart And Soul Into It Because I Love U Guys And Look Its Hard To Make An OS With Little To No C Skills And With Makefiles And Stuff Like That</h10>
 My Neofetch Details RN
 <br>
-cabox@cpp-million-bytes 
+cabox@cpp-million-bytes
+<br>
 ----------------------- 
 <br>
 OS: Ubuntu 20.04 LTS x86_64 
